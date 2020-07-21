@@ -1,0 +1,2 @@
+# distance from origin (upper) ; cross-section, number density
+1000 ; 4.98: 1.13e23

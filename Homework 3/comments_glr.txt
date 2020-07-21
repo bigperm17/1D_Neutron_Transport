@@ -1,0 +1,6 @@
+Risky use of global parameters for variables that are modified at different points.
+
+A: Good
+B: Good
+C: Good
+D: You got killed by your global variables. You're using the extrapolated length from case 3 instead of recalculating for graphite.
